@@ -15,4 +15,4 @@ Para ativar a API fora do STS ou qualque outra plataforma que tenha utilizado pa
 - Entrar no arquivo "target" do projeto que deseja ativar a API 
 - Copiar o nome do arquivo jar(alguma_coisa.jar) 
 - Abrir o terminal na pasta "target"
-- E fazer a ativação: java -jar alguma_coisa.jar
+- E é só fazer a ativação: java -jar alguma_coisa.jar
